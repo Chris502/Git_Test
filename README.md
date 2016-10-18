@@ -1,1 +1,1 @@
-This is Chris502s first git Projecr
+This is Chris502s first git Project
